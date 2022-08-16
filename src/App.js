@@ -8,7 +8,7 @@ function App() {
   const laptops = [
     {
       type: "dell350",
-      price: 600,
+      price: 500,
       name: "dell",
       imgsrc:
         "https://static.toiimg.com/thumb/resizemode-4,msid-72207604,imgsize-96766,width-720/72207604.jpg",
